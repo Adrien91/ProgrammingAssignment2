@@ -3,6 +3,7 @@
 ## it is stored in the cache and when it is needed to calculate it again, the 
 ## cacheSolve function is going to look into the cache and return it. 
 
+# I owe some credits to the example shown in the cours R programming from coursera.org
 
 # makeCacheMatrix is a list of 4 functions:
 ## set: set up a matrix (the argument of the function is the matrix 
